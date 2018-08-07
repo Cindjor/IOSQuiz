@@ -3,7 +3,7 @@
 //  IOSQuizTests
 //
 //  Created by Luke CHEUNG on 11/10/15.
-//  Copyright © 2015 Luke Cheung. All rights reserved.
+//  Copyright © 2015 LuCH. All rights reserved.
 //
 
 import XCTest
